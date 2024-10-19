@@ -91,5 +91,6 @@ This project is licensed under the MIT License. Feel free to contribute or modif
 
 ## Feedback
 
-If you have any feedback, please reach out to me at nkrajkumar02@gmail.com
-
+If you have any feedback, please reach out to me at:
+📧 nkrajkumar02@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/rajkumar-k-747984257/)
