@@ -18,7 +18,9 @@ This is a simple Tic-Tac-Toe game built using Python's Tkinter library for the g
 3. After each turn, the game will check if a player has won or if the game is a tie.
 4. If a player has all their symbols in a row, column, or diagonal, they win.
 5. The game will display the winner or declare a tie if all tiles are filled.
-6. To restart the game, click the "restart" button.
+6. If Player X started and the game was a tie, Player O starts the next game.
+7. If there's a winner, the loser starts the next game.
+8. Click the "restart" button to reset the board and start a new game.
 
 ## Prerequisites
 - Python 3.x
